@@ -41,7 +41,7 @@ The components connected in a network are sets of nodes interconnected through d
 
 We obtained that the network is not connected and that it has 6 components connected.
 
-![alt text](https://github.com/bfontes/network_fligths_brazil/blob/main/images/connected_components.png)
+![alt text](https://github.com/bfontes/network_fligths_brazil/blob/main/images/components.png)
 
 **Shortest path**
 
