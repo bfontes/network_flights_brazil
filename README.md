@@ -74,5 +74,5 @@ This is also called a Friend-of-a-Friend.
 
 All the results of the coefficient are in the .ipynb file of the repository.
 
-- The explanation in video: [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share)
+- The explanation in video: [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/7781b81a0cd24b368ebe412126c2d89d)
 
